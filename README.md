@@ -1,1 +1,1 @@
-# neonix-search-engin
+*
